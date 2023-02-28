@@ -1,0 +1,18 @@
+.cool, .cool-select{
+    background-color: #7a3375;
+    font-family: Verdana, sans-serif;
+}
+.cool-select, #two{
+    font-size: 24px;
+}
+
+#one {
+    color:rgb(8, 8, 200);
+    font-size:36px;
+}
+
+#two{
+    background-color: rgb(120, 201, 120);
+    font-weight: 700;
+
+}
